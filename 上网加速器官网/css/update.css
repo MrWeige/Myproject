@@ -143,7 +143,7 @@
 			left: 0;
 			width: 236px;
 			height: 48px;
-			background-image: url('G:/上网加速器官网/img/logo.png');
+			background-image: url('/上网加速器官网/img/logo.png');
 			background-position:0 0;
 			background-repeat: no-repeat;
 		}
@@ -194,7 +194,7 @@
 			text-align: center;
 		}
 		.pc-png{
-			background: url('G:/上网加速器官网/img/spr.png');
+			background: url('/上网加速器官网/img/spr.png');
 			background-repeat: no-repeat;
 			background-position:-100px -60px ;
 			display: inline-block;
@@ -202,7 +202,7 @@
 			height: 29px;
 		}
 		.phone-png{
-			background: url('G:/上网加速器官网/img/spr.png');
+			background: url('/上网加速器官网/img/spr.png');
 			background-repeat: no-repeat;
 			background-position:-140px -60px ;
 			display: inline-block;
@@ -223,7 +223,7 @@
 			position: relative;
 			width: 90px;
 			height: 26px;
-			background: url('G:/上网加速器官网/img/logo.png');
+			background: url('/上网加速器官网/img/logo.png');
 			background-position: 0 -48px;
 			background-repeat: no-repeat;
 			vertical-align: middle;
@@ -281,7 +281,7 @@
 		right: 180px;
 	}
 	.round{
-		background-image: url('G:/上网加速器官网/img/spr.png');
+		background-image: url('/上网加速器官网/img/spr.png');
 		background-repeat: no-repeat;
 		background-position: -160px -60px;
 		display: inline-block;
@@ -353,7 +353,7 @@
 		display: inline-block;
 		width: 57px;
 		height: 57px;
-		background: url('G:/上网加速器官网/img/spr.png');
+		background: url('/上网加速器官网/img/spr.png');
 		background-repeat: no-repeat;
 		background-position: 0 0;
 		position: relative;
@@ -364,7 +364,7 @@
 		display: inline-block;
 		width: 34px;
 		height: 38px;
-		background: url('G:/上网加速器官网/img/spr.png');
+		background: url('/上网加速器官网/img/spr.png');
 		background-repeat: no-repeat;
 		background-position: -100px 0;
 		position: absolute;
@@ -388,7 +388,7 @@
 		display: inline-block;
 		width: 57px;
 		height: 57px;
-		background: url('G:/上网加速器官网/img/spr.png');
+		background: url('/上网加速器官网/img/spr.png');
 		background-repeat: no-repeat;
 		background-position: 0 0;
 		position: relative;
@@ -399,7 +399,7 @@
 		display: inline-block;
 		width: 34px;
 		height: 38px;
-		background: url('G:/上网加速器官网/img/spr.png');
+		background: url('/上网加速器官网/img/spr.png');
 		background-repeat: no-repeat;
 		background-position: -60px 0;
 		position: absolute;
@@ -419,7 +419,7 @@
     		font-size: 14px;
 	}
 	.ico-contractWbpng{
-		background: url('G:/上网加速器官网/img/spr.png');
+		background: url('/上网加速器官网/img/spr.png');
 		background-repeat: no-repeat;
 		background-position:-140px 0;
 		display: inline-block;
@@ -428,7 +428,7 @@
 		margin-left: 80px;
 	}
 	.ico-contractWxpng{
-		background: url('G:/上网加速器官网/img/spr.png');
+		background: url('/上网加速器官网/img/spr.png');
 		background-repeat: no-repeat;
 		background-position:-200px 0;
 		display: inline-block;
@@ -437,7 +437,7 @@
 		margin-left: 15px;
 	}
 	.ico-contractQzpng{
-		background: url('G:/上网加速器官网/img/spr.png');
+		background: url('/上网加速器官网/img/spr.png');
 		background-repeat: no-repeat;
 		background-position:-260px 0;
 		display: inline-block;
@@ -473,14 +473,14 @@
 			background-color: #a5a5a5;
 		}
 		.ban{
-			background:url('G:/上网加速器官网/img/bg01.jpg');
+			background:url('/上网加速器官网/img/bg01.jpg');
 			background-repeat: no-repeat;
 			background-position: center;
 		}
 		.banner-pc,.banner-android{
 			width: 980px;
 			height: 467px;
-			background: url('G:/上网加速器官网/img/bg02.jpg');
+			background: url('/上网加速器官网/img/bg02.jpg');
 			background-repeat: no-repeat;
 			background-position: center top;
 			margin: 0 auto;
@@ -490,7 +490,7 @@
 			position: absolute;
 			width: 195px;
 			height: 336px;
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-repeat: no-repeat;
 			background-position: 0 0;
 			top: 50px;
@@ -513,7 +513,7 @@
 		    margin-top: 37px;
 		}
 		.ban_client_panel_png_android{
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-position:-200px 0 ;
 			background-repeat: no-repeat;
 			width: 170px;
@@ -528,7 +528,7 @@
 		}
 		.first-number_android{
 			display: inline-block;
-		    background: url('G:/上网加速器官网/img/spr-24.png');
+		    background: url('/上网加速器官网/img/spr-24.png');
 		    background-repeat: no-repeat;
 		    background-position: -420px -90px;
 		    width: 19px;
@@ -536,7 +536,7 @@
 		}
 		.second-number_android{
 		    display: inline-block;
-		    background: url('G:/上网加速器官网/img/spr-24.png');
+		    background: url('/上网加速器官网/img/spr-24.png');
 		    background-repeat: no-repeat;
 		    background-position: -420px 0px;
 		    width: 19px;
@@ -544,7 +544,7 @@
 		}
 		.per_android{
 		    display: inline-block;
-		    background: url('G:/上网加速器官网/img/spr-24.png');
+		    background: url('/上网加速器官网/img/spr-24.png');
 		    background-repeat: no-repeat;
 		    background-position: -300px -100px;
 		    width: 28px;
@@ -568,7 +568,7 @@
 			position: absolute;
 			width: 669px;
 			height: 481px;
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-repeat: no-repeat;
 			background-position: 0 -340px;
 			top: 0;
@@ -594,7 +594,7 @@
 			    width: 280px;
     				height: 140px;
     				overflow: hidden;
-    				background: url('G:/上网加速器官网/img/spr-24.png');
+    				background: url('/上网加速器官网/img/spr-24.png');
     				background-position: -460px -160px;
     				background-repeat: no-repeat;
     				position: absolute;
@@ -619,7 +619,7 @@
 		}
 		.first-number{
 			display: inline-block;
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-repeat: no-repeat;
 			background-position:-745px -135px;
 			width: 30px;
@@ -627,7 +627,7 @@
 		}
 		.second-number{
 			display: inline-block;
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-repeat: no-repeat;
 			background-position:-745px 0;
 			width: 30px;
@@ -635,7 +635,7 @@
 		}
 		.per{
 			display: inline-block;
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-repeat: no-repeat;
 			background-position: -530px -100px;
 			width: 50px;
@@ -644,7 +644,7 @@
 		.log-on-btn{
 			    	width: 117px;
     				height: 31px;
-    				background: url('G:/上网加速器官网/img/spr-24.png');
+    				background: url('/上网加速器官网/img/spr-24.png');
     				background-repeat: no-repeat;
     				background-position: -530px -60px;
     				text-align: center;
@@ -694,7 +694,7 @@
 			position: absolute;
 			width: 16px;
 			height: 16px;
-			background: url('G:/上网加速器官网/img/spr.png');
+			background: url('/上网加速器官网/img/spr.png');
 			background-repeat: no-repeat;
 			background-position: -300px -60px;
 			left: 0;
@@ -715,7 +715,7 @@
 		}
 		.ico-pc-png{
 			display: inline-block;
-			background: url('G:/上网加速器官网/img/spr.png');
+			background: url('/上网加速器官网/img/spr.png');
 			background-repeat: no-repeat;
 			background-position: 0 -60px;
 			width: 45px;
@@ -774,7 +774,7 @@
 			width: 330px;
 			height: 28px;
 			margin-left: 50px;
-			background: url('G:/上网加速器官网/img/spr.png');
+			background: url('/上网加速器官网/img/spr.png');
 			background-position:0 -140px ;
 			background-repeat: no-repeat;
 			padding-left: 68px;
@@ -783,7 +783,7 @@
 			float: right;
 			width: 330px;
 			height: 28px;
-			background: url('G:/上网加速器官网/img/spr.png');
+			background: url('/上网加速器官网/img/spr.png');
 			background-position:0 -110px;
 			background-repeat: no-repeat;
 			padding-left: 90px;
@@ -792,7 +792,7 @@
 			width: 48%;
 			height: 327px;
 			float: left;
-			background: url('G:/上网加速器官网/img/spr-compare.jpg');
+			background: url('/上网加速器官网/img/spr-compare.jpg');
 			background-repeat: no-repeat;
 			position: relative;
 		}
@@ -800,7 +800,7 @@
 			width: 52%;
 			height: 327px;
 			float: right;
-			background: url('G:/上网加速器官网/img/spr-compare.jpg');
+			background: url('/上网加速器官网/img/spr-compare.jpg');
 			background-repeat: no-repeat;
 			background-position: -470px 0;
 			position: relative;
@@ -812,7 +812,7 @@
 			width: 48%;
 			height: 327px;
 			float: left;
-			background: url('G:/上网加速器官网/img/spr-compare.jpg');
+			background: url('/上网加速器官网/img/spr-compare.jpg');
 			background-repeat: no-repeat;
 			background-position:0 -327px; 
 			position: relative;
@@ -821,7 +821,7 @@
 			width: 52%;
 			height: 327px;
 			float: right;
-			background: url('G:/上网加速器官网/img/spr-compare.jpg');
+			background: url('/上网加速器官网/img/spr-compare.jpg');
 			background-repeat: no-repeat;
 			background-position: -470px -327px;
 			position: relative;
@@ -830,7 +830,7 @@
 			display: inline-block;
 			width: 58px;
 			height: 58px;
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-repeat: no-repeat;
 			background-position: -460px -60px;
 			vertical-align: middle;
@@ -866,7 +866,7 @@
 			width: 50px;
 			height: 40px;
 			position: absolute;
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-repeat: no-repeat;
 			background-position: -340px -100px;
 			left: 160px;
@@ -876,7 +876,7 @@
 			width: 210px;
 			height: 60px;
 			position: absolute;
-			background: url('G:/上网加速器官网/img/spr-24.png');
+			background: url('/上网加速器官网/img/spr-24.png');
 			background-repeat: no-repeat;
 			background-position: -460px -0px;
 			left: 193px;
@@ -901,7 +901,7 @@
 		.function_hd,.question_hd{
 			width: 330px;
 			height: 33px;
-			background: url('G:/上网加速器官网/img/spr.png');
+			background: url('/上网加速器官网/img/spr.png');
 			background-repeat: no-repeat;
 			background-position: 0 -170px;
 			margin: 30px auto;
@@ -934,7 +934,7 @@
 			display: inline-block;
 			width: 287px;
 			height: 164px;
-			background: url('G:/上网加速器官网/img/spr-function.png');
+			background: url('/上网加速器官网/img/spr-function.png');
 			background-repeat: no-repeat;
 		}
 		.item1{
@@ -969,6 +969,10 @@
 		background-repeat: no-repeat;
 		background-color: #00afff;
 		vertical-align: middle;
+		font-size: 14px;
+    		text-align: center;
+    		color: #fff;
+    		line-height: 21px;
 	}
 	.ico-helpA{
 		display: inline-block;
@@ -977,6 +981,10 @@
 		background-repeat: no-repeat;
 		background-color: #61d41a;
 		vertical-align: middle;
+		font-size: 14px;
+    		text-align: center;
+    		color: #fff;
+    		line-height: 21px;
 	}
 	.ico-drop{
 		width: 18px;
@@ -990,11 +998,21 @@
 	}
 	.help_QA_item{
 		margin: 15px 0;
-		height: 24px;
+		height: 34px;
 		overflow: hidden;
 	}
 	.help_QA_item--on{
-		height: 44px;
+		height: 85px;
+		background-color: #EAF8FF;
+	}
+	dd{
+		padding-top: 10px;
+	}
+	dt{
+		padding-top: 10px;
+	}
+	dl{
+		margin-left: 30px;
 	}
 		/*CSS3 animations*/
 		.compare_time-speed:hover .pic-file-png{

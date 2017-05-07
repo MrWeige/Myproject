@@ -1,0 +1,473 @@
+/* reset */
+
+		body,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		hr,
+		p,
+		blockquote,
+		dl,
+		dt,
+		dd,
+		ul,
+		ol,
+		li,
+		pre,
+		form,
+		fieldset,
+		legend,
+		button,
+		input,
+		textarea,
+		th,
+		td,
+		html {
+		  margin: 0;
+		  padding: 0;
+		}
+
+		body,
+		button,
+		input,
+		select,
+		textarea {
+		  font: 12px/1.5 arial, Helvetica, "Microsoft YaHei", "Heiti SC", "Heiti TC", sans-serif;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+		  font-size: 100%;
+		}
+
+		address,
+		cite,
+		dfn,
+		em,
+		var {
+		  font-style: normal;
+		}
+
+		code,
+		kbd,
+		pre,
+		samp {
+		  font-family: courier new, courier, monospace;
+		}
+
+		small {
+		  font-size: 12px;
+		}
+
+		ul,
+		ol {
+		  list-style: none;
+		}
+
+		a {
+		  text-decoration: none;
+		  outline: 0 none
+		}
+
+		a:hover {
+		  text-decoration: underline;
+		}
+
+		sup {
+		  vertical-align: text-top;
+		}
+
+		sub {
+		  vertical-align: text-bottom;
+		}
+
+		legend {
+		  color: #000;
+		}
+
+		fieldset,
+		img {
+		  border: 0;
+		}
+
+		button,
+		input,
+		select,
+		textarea {
+		  font-size: 100%;
+		}
+
+		table {
+		  border-collapse: collapse;
+		  border-spacing: 0;
+		}
+
+		section,
+		article,
+		aside,
+		header,
+		footer,
+		nav,
+		dialog,
+		figure {
+		  display: block;
+		  margin: 0 auto;
+		}
+	
+		/* reset end */
+		.clearfix:after{display:block;content:"\200B";clear:both;height:0;}
+		.sys-header{
+			width: 900px;
+			height: auto;
+			margin: 20px auto;
+		}
+		.header_main{
+			float: left;
+		}
+		.header_logo_png{
+			position: relative;
+			width: 236px;
+			height: 48px;
+			line-height: 1.2;
+		}
+		.header_logo_link{
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 236px;
+			height: 48px;
+			background-image: url('G:/上网加速器官网/img/logo.png');
+			background-position:0 0;
+			background-repeat: no-repeat;
+		}
+		.header_logo_txt{
+			margin-left: 56px;
+			font-size: 24px;
+			color: #0079cd;
+			font-weight: normal;
+		}
+		.header_logo_url{
+			margin-left: 56px;
+			font-weight: normal;
+			font-size: 12px;
+			color: #c0c0c0;
+		}
+		.header_nav{
+			float: left;
+			padding-left: 70px;
+		}
+		.header_nav li{
+			float: left;
+			margin: 0 7px; 
+			line-height: 48px;
+		}
+		.header_nav li a{
+			font-size: 18px;
+			color: #c0c0c0;
+		}
+		.header_nav li .help{
+			color:#0c8ef1;
+		}
+		.header_user{
+			float: right;
+			line-height: 48px;
+			position: relative;
+		}
+		.header_user a{
+			display: inline-block;
+			margin: 0 2px;
+		}
+		.header_VIP{
+			position: relative;
+			width: 90px;
+			height: 26px;
+			background: url('G:/上网加速器官网/img/logo.png');
+			background-position: 0 -48px;
+			background-repeat: no-repeat;
+			vertical-align: middle;
+		}
+		.header_user span{
+			position: absolute;
+			top: 4px;
+			right: 10px;
+			font: 12px/1.5 tahoma,arial,\5b8b\4f53,sans-serif;
+			color: white;
+		}
+		.decorate{
+			width: 100%;
+			height: 2px;
+			background-color: #0c8ef1;
+		}
+
+     .sys-content-bg{
+     }
+	.sys-content{
+		width: 900px;
+		margin:0 auto;
+	}
+	.content_header{
+		    margin: 34px 0;
+	}
+	.content_help{
+		position: relative;
+	}	
+	.content_help_extra{
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+	.content_help_extra li{
+		float: left;
+		margin-right:8px;
+	}
+	.content_help_extra li span{
+		color: red;
+		
+	}
+	.content_help_center{
+		font-size: 18px;
+		font-weight: normal;
+		line-height: 1.2;
+	}
+
+	.help_content{
+		height: 400px;
+		background-color: #D6D8DC;
+		margin:  30px 0 100px 0;
+	}
+	.help_type_item{
+		width: 154px;
+		height: 26px;
+		text-align: center;
+		overflow: hidden;
+	}
+	.help_type_item a{
+		font: 15px/1.5 tahoma,arial,\5b8b\4f53,sans-serif;
+		color: #0c8ef1;
+		text-decoration: none;
+	}
+	.icon1{
+		display: inline-block;
+		width: 16px;
+		height: 16px;
+		background:url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position: -190px -60px;
+		position: absolute;
+		top: 2px;
+		left: 5px;
+	}
+	.icon2{
+		display: inline-block;
+		width: 16px;
+		height: 16px;
+		background:url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position: -210px -60px;
+		position: absolute;
+		top: 2px;
+		left: 5px;
+	}
+	dt{
+		position: relative;
+	}
+	.help_content_hd{
+		float: left;
+		margin-top: 17px;
+	}
+	.help_content_bd1,.help_content_bd2,.help_content_bd3
+	,.help_content_bd4,.help_content_bd5,.help_content_bd6{
+		float: right;
+		width: 730px;
+		font-size: 12px;
+		line-height: 2;
+		display: none;
+		margin-top: 25px;
+	}
+	.ico-helpQ{
+		display: inline-block;
+		width: 18px;
+		height: 18px;
+		background-repeat: no-repeat;
+		background-color: #00afff;
+		vertical-align: middle;
+	}
+	.ico-helpA{
+		display: inline-block;
+		width: 18px;
+		height: 18px;
+		background-repeat: no-repeat;
+		background-color: #61d41a;
+		vertical-align: middle;
+	}
+	.ico-drop{
+		width: 18px;
+		height: 18px;
+		background-repeat: no-repeat;
+		background-color: #00afff;
+		vertical-align: middle;
+		position: absolute;
+		right: 5px;
+		top: 0;
+	}
+	.help_QA_item{
+		margin: 15px 0;
+		height: 24px;
+		overflow: hidden;
+	}
+	.help_type_item--on{
+		height: 114px;
+	}
+	.help_bd--on{
+		display: block;
+		-webkit-animation: appear 1s 0.5s both;
+		-o-animation: appear 1s 0.5s both;
+		animation: appear 1s 0.5s both;
+	}
+	.help_QA_item--on{
+		height: 44px;
+	}
+	.contact{
+		width: 900px;
+		height: auto;
+		margin: 20px auto;
+	}
+	.contact-telephone{
+		width: 30%;
+		float: left;
+		margin: 20px 5px;
+	}
+	.contact-telephone a{
+		display: inline-block;
+		width: 57px;
+		height: 57px;
+		background: url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position: 0 0;
+		position: relative;
+		float: left;
+		margin-right: 21px;
+	}
+	.contact-telephone i{
+		display: inline-block;
+		width: 34px;
+		height: 38px;
+		background: url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position: -100px 0;
+		position: absolute;
+		top: 10px;
+    		left: 12px;
+	}
+	.contact-info h4{
+		display: inline-block;
+		margin-left: 5px; 
+		font-size: 14px;
+	}
+	.contact-info p{
+		font-size: 24px;
+	}
+	.contact-QQ{
+		width: 30%;
+		float: left;
+		margin: 20px 5px;
+	}
+	.contact-QQ a{
+		display: inline-block;
+		width: 57px;
+		height: 57px;
+		background: url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position: 0 0;
+		position: relative;
+		float: left;
+		margin-right: 21px;
+	}
+	.contact-QQ i{
+		display: inline-block;
+		width: 34px;
+		height: 38px;
+		background: url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position: -60px 0;
+		position: absolute;
+		top: 10px;
+    		left: 12px;
+	}
+	.contact-other{
+		width: 35%;
+		float: right;
+		margin: 20px 5px;
+		position: relative;
+	}
+	.contact-other h4{
+		position: absolute;
+		left: 11px;
+    		top: 15px;
+    		font-size: 14px;
+	}
+	.ico-contractWbpng{
+		background: url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position:-140px 0;
+		display: inline-block;
+		width: 57px;
+		height: 57px;
+		margin-left: 80px;
+	}
+	.ico-contractWxpng{
+		background: url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position:-200px 0;
+		display: inline-block;
+		width: 57px;
+		height: 57px;
+		margin-left: 15px;
+	}
+	.ico-contractQzpng{
+		background: url('G:/上网加速器官网/img/spr.png');
+		background-repeat: no-repeat;
+		background-position:-260px 0;
+		display: inline-block;
+		width: 57px;
+		height: 57px;
+		margin-left: 15px;
+	}
+	footer{
+			width: 960px;
+			height: auto;
+			margin:0 auto;
+			background-color: white;
+			text-align: center;
+		}
+		footer a ,p{
+			color: #a5a5a5;
+		}
+		.footer-link li{
+			float: left;
+			margin: 0 4px;
+		}
+		.footer-link{
+			display: block;
+			width: 400px;
+			height: 20px;
+			margin: 0px auto;
+			padding-top: 30px;
+    			margin-bottom: 12px;
+		} 
+		.line{
+			width: 100%;
+			height: 1px;
+			background-color: #a5a5a5;
+		}
+		@keyframes appear{
+			0%{opacity: 0}
+			100%{opacity: 1}
+		}
